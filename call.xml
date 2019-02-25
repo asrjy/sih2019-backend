@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice">Hi Kunal you are such a nice person, thank you so much. This will soon be done, sorry for the delay</Say>
+  <Pause length="1"/>
+  <Say voice="alice">I also wanted to tell you that I've successfully managed to skip college and you should call me back if this works!</Say>
+</Response>

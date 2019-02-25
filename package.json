@@ -1,0 +1,28 @@
+{
+  "name": "payrec-api",
+  "version": "1.0.0",
+  "description": "API to handle the fetch calls made by the front end for dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "curl-request": "^1.1.1",
+    "express": "^4.16.4",
+    "jsontoxml": "^1.0.1",
+    "knex": "^0.16.3",
+    "mysql": "^2.16.0",
+    "nodemailer": "^5.1.1",
+    "openurl": "^1.1.1",
+    "payumoney-node": "^2.0.1",
+    "pg": "^7.8.1",
+    "requests": "^0.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
